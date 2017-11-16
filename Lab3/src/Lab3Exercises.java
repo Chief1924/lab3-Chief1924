@@ -8,4 +8,4 @@ public class Lab3Exercises {
 		jaime.setSize(200, 200);
 		jaime.setVisible(true);
 	}
-}
+} 
